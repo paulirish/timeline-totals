@@ -3,8 +3,6 @@ define(function(require, exports, module) {
 
     "use strict";
 
-    var dropzone = require('vendor/dropzone');
-
     function setup(){
         var holder = document.getElementById('holder');
         holder.ondragover = function () { return false; };
