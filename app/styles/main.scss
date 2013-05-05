@@ -1,0 +1,30 @@
+$iconSpritePath: "../images/glyphicons-halflings.png";
+$iconWhiteSpritePath: "../images/glyphicons-halflings-white.png";
+
+@import 'sass-bootstrap/lib/bootstrap';
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+}
+
+    #holder{
+        border:1px solid lightgray;
+        height:100px;
+        font-size:20px;
+        color:gray;
+        text-align:center;
+        padding:20px;
+    }
+    #holder:hover{
+        background-color:lightgray;
+    }
+        #holder ul{
+            width:100%;
+            text-align:left;
+        }
+            #holder li img{
+                height:20px;
+            }
+
+
