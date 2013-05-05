@@ -15,7 +15,7 @@ Still super rough. Would love any help.
 
 You'll need grunt & bower. 
 
-    npm install && bower install
+    npm install & bower install
     
 To start up the development loop
 
