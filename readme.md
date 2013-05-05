@@ -11,3 +11,12 @@
 
 Still super rough. Would love any help.
 
+# Developing
+
+You'll need grunt & bower. 
+
+    npm install && bower install
+    
+To start up the development loop
+
+    grunt server
